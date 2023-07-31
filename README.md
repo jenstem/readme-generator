@@ -1,7 +1,5 @@
 ## Read Me Generator
 
-Click [here](https://jenstem.github.io/weather-dashboard/) to see the website.
-
 ## Table of Contents
 + [Description](#description)
 + [User Story](#userstory)
