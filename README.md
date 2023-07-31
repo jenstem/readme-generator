@@ -7,7 +7,7 @@
 + [Installation](#installation)
 + [Usage](#usage)
 + [License](#license)
-+ [Screenshots](#screenshots)
++ [Video & Screenshots](#screenshots)
 + [Contact Me](#contact)
 + [Notes](#notes)
 ##
@@ -67,16 +67,16 @@ This app is meant to help the user quickly and easily generate a README file.
 ## Screenshots:
 ##
 
-![](https://github.com/jenstem/weather-dashboard/blob/main/assets/weather.png)
+![](https://github.com/jenstem/readme-generator/blob/main/assets/getting-started.png)
 *This is a screenshot of how to initiate the Read Me Generator in the terminal*
 ##
 
-![](https://github.com/jenstem/weather-dashboard/blob/main/assets/fiveday.png)
-*This is a screenshot of the questions you'll be asked to generate your README file*
+![](https://github.com/jenstem/readme-generator/blob/main/assets/readme-example.png)
+*This is a screenshot of the finished README file*
 ##
 
-![](https://github.com/jenstem/weather-dashboard/blob/main/assets/search.png)
-*This is a screenshot of the finished README file*
+![Watch the video!](https://youtu.be/92Lcen1axW8)
+*This is a video of how to use the Read Me Generator*
 ##
 
 <a id='contact'></a>
