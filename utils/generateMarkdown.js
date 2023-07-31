@@ -30,6 +30,9 @@ function generateMarkdown(data) {
   ## Contribution guidelines
   ${data.contribution}
   ##
+  ## Test:
+  ${data.test}
+  ##
   `;
 }
 
