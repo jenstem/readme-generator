@@ -2,7 +2,7 @@
 # name
 ##
 ## Description:
-sc
+desc
 ##
 ## Table of Contents
 + [Installation instructions](#instructions)
@@ -10,23 +10,25 @@ sc
 + [License](#license)
 + [Contribution guidelines](#contribution)
 + [Tests](#test)
-+ [Questions](#questions)
++ [Questions](#contact)
 ##
 ## Instructions:
-ins
+install
 ##
 ## Usage:
-a
+use
 ##
 ## License
 MIT
 ##
+<a id='contribution'></a>
 ## Contribution guidelines
-asdja
+guide
 ##
 ## Test:
-kdfjf
+test
 ##
+<a id='contact'></a>
 ## Questions & Contact Information
 GitHub Link: [jenstem](https://github.com/jenstem)  <br>
 Email: jen@gmail.com
