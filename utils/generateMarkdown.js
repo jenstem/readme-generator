@@ -2,13 +2,13 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
     if (license === "MIT") {
-      return `![${license}](https://img.shields.io/badge/license-${license}-blue.svg)`;
+        return `![${license}](https://img.shields.io/badge/license-${license}-blue.svg)`;
     } else if (license === "Apache") {
-      return `![${license}](https://img.shields.io/badge/license-${license}-green.svg)`;
+        return `![${license}](https://img.shields.io/badge/license-${license}-green.svg)`;
     } else if (license === "NONE") {
-      return ` `;
+        return ` `;
     }
-  }
+}
 
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
@@ -21,7 +21,10 @@ function generateMarkdown(data) {
   ## Instructions:
   ${data.instructions}
   ##
+  ## Usage:
+  ${data.usage}
+  ##
   `;
-  }
+}
 
 module.exports = generateMarkdown;
