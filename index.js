@@ -63,7 +63,11 @@ questions = [
 ];
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+    fs.writeFile(fileName, data, function(error, data) {
+        error ? console.error(error) : console.log("File successfully written!")
+    })
+}
 
 // TODO: Create a function to initialize app
 function init() {}
