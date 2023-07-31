@@ -14,9 +14,9 @@ Click [here](https://jenstem.github.io/weather-dashboard/) to see the website.
 <a id='description'></a>
 ## Description
 
-As a current student, I wanted to create a Read Me Generator that would help a user to create a README file for their app.  The Read Me Generator would walk the user through each necessary part of a the file and prompt them to enter in the necessary information.
+As a current student, I wanted to create a Read Me Generator that would help a user to create a README file for their app.  The Read Me Generator would walk the user through each necessary part of the file and prompt them to enter in the necessary information.
 
-The user wouldn't need to style or add any code to the README file, simply the information when prompted.  The README file would then be generated with a Table of Contents that when clicked, takes the user to the corresponding section.  Allowing the user to quickly and easily generator their own README file.
+The user wouldn't need to style or add any code to the README file, simply the information when prompted.  The README file would then be generated with a Table of Contents that when clicked, takes the user to the corresponding section.  Allowing the user to quickly and easily generate their own README file.
 ##
 
 <a id='userstory'></a>
@@ -80,8 +80,8 @@ This app is meant to help the user quickly and easily generate a README file.
 
 <a id='contact'></a>
 ## Contact Me
-Email:  jennifer.stemkowski@gmail.com
-GitHu URL:  https://github.com/jenstem
+Email:  jennifer.stemkowski@gmail.com <br>
+GitHub URL:  https://github.com/jenstem
 
 ##
 <a id='notes'></a>
