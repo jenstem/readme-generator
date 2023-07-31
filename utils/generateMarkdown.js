@@ -33,6 +33,9 @@ function generateMarkdown(data) {
   ## Test:
   ${data.test}
   ##
+  ## Questions & Contact Information
+  My GitHub Link: [${data.username}](https://github.com/${data.username})  <br>
+  For questions regarding my Read Me Generator, please email me at ${data.email}
   `;
 }
 
