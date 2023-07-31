@@ -13,7 +13,7 @@ desc
 + [Questions](#questions)
 ##
 ## Instructions:
-instal
+insta
 ##
 ## Usage:
 use
@@ -25,9 +25,9 @@ MIT
 guide
 ##
 ## Test:
-test
+tet
 ##
 ## Questions & Contact Information
-GitHub Link: [jenstem](https://github.com/jenstem)  '<br>'
-  Email: jen@gmail.com
+GitHub Link: [jenstem](https://github.com/jenstem)  <br>
+Email: jen@gmail.com
 
