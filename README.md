@@ -5,9 +5,12 @@ Click [here](https://jenstem.github.io/weather-dashboard/) to see the website.
 ## Table of Contents
 + [Description](#description)
 + [User Story](#userstory)
-+ [Acceptance](#acceptance)
++ [Acceptance Criteria](#acceptance)
++ [Installation](#installation)
 + [Usage](#usage)
++ [License](#license)
 + [Screenshots](#screenshots)
++ [Contact Me](#contact)
 + [Notes](#notes)
 ##
 
