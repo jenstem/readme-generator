@@ -18,7 +18,9 @@ function generateMarkdown(data) {
   ## Description:
   ${data.description}
   ##
-
+  ## Instructions:
+  ${data.instructions}
+  ##
   `;
   }
 
