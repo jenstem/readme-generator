@@ -18,6 +18,14 @@ function generateMarkdown(data) {
   ## Description:
   ${data.description}
   ##
+  ## Table of Contents
+  + [Installation instructions](#instructions)
+  + [Usage information](#usage)
+  + [License](#license)
+  + [Contribution guidelines](#contribution)
+  + [Tests](#test)
+  + [Questions](#contact)
+  ##
   ## Instructions:
   ${data.instructions}
   ##
