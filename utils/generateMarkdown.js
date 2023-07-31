@@ -27,6 +27,9 @@ function generateMarkdown(data) {
   ## License
   ${data.license}
   ##
+  ## Contribution guidelines
+  ${data.contribution}
+  ##
   `;
 }
 
