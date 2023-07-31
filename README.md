@@ -1,4 +1,4 @@
-![Apache](https://img.shields.io/badge/license-Apache-green.svg)
+![MIT](https://img.shields.io/badge/license-MIT-blue.svg)
 # name
 ##
 ## Description:
@@ -13,13 +13,13 @@ desc
 + [Questions](#questions)
 ##
 ## Instructions:
-inst
+instal
 ##
 ## Usage:
 use
 ##
 ## License
-Apache
+MIT
 ##
 ## Contribution guidelines
 guide
@@ -28,6 +28,6 @@ guide
 test
 ##
 ## Questions & Contact Information
-GitHub Link: [jenstem](https://github.com/jenstem)
+GitHub Link: [jenstem](https://github.com/jenstem)  '<br>'
   Email: jen@gmail.com
 
