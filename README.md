@@ -2,7 +2,7 @@
 # name
 ##
 ## Description:
-desc
+sc
 ##
 ## Table of Contents
 + [Installation instructions](#instructions)
@@ -13,19 +13,19 @@ desc
 + [Questions](#questions)
 ##
 ## Instructions:
-insta
+ins
 ##
 ## Usage:
-use
+a
 ##
 ## License
 MIT
 ##
 ## Contribution guidelines
-guide
+asdja
 ##
 ## Test:
-tet
+kdfjf
 ##
 ## Questions & Contact Information
 GitHub Link: [jenstem](https://github.com/jenstem)  <br>
