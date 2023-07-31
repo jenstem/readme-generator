@@ -35,16 +35,19 @@ function generateMarkdown(data) {
   ## License
   ${data.license}
   ##
+  <a id='contribution'></a>
   ## Contribution guidelines
   ${data.contribution}
   ##
   ## Test:
   ${data.test}
   ##
+  <a id='contact'></a>
   ## Questions & Contact Information
   My GitHub Link: [${data.username}](https://github.com/${data.username})  <br>
   For questions regarding my Read Me Generator, please email me at ${data.email}
+
   `;
-}
+  }
 
 module.exports = generateMarkdown;
