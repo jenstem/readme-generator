@@ -67,15 +67,15 @@ This app is meant to help the user quickly and easily generate a README file.
 ## Screenshots:
 ##
 
-![](https://github.com/jenstem/readme-generator/blob/main/assets/getting-started.png)
+![](https://github.com/jenstem/readme-generator/blob/main/assets/getting-started.png) <br>
 *This is a screenshot of how to initiate the Read Me Generator in the terminal*
 ##
 
-![](https://github.com/jenstem/readme-generator/blob/main/assets/readme-example.png)
+![](https://github.com/jenstem/readme-generator/blob/main/assets/readme-example.png) <br>
 *This is a screenshot of the finished README file*
 ##
 
-![Click to watch the video!](https://youtu.be/92Lcen1axW8)
+[Click to watch the video!](https://youtu.be/ydtt49gOhoo) <br>
 *This is a video of how to use the Read Me Generator*
 ##
 
