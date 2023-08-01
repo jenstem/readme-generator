@@ -75,8 +75,7 @@ This app is meant to help the user quickly and easily generate a README file.
 *This is a screenshot of the finished README file*
 ##
 
-![Watch the video!](https://youtu.be/92Lcen1axW8)
-![Watch the video!](https://youtube.com/embed/92Lcen1axW8)
+![Click to watch the video!](https://youtu.be/92Lcen1axW8)
 *This is a video of how to use the Read Me Generator*
 ##
 
