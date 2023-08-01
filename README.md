@@ -76,6 +76,7 @@ This app is meant to help the user quickly and easily generate a README file.
 ##
 
 ![Watch the video!](https://youtu.be/92Lcen1axW8)
+[<img src="https://github.com/jenstem/readme-generator/blob/main/assets/video.png" width="50%">](https://youtu.be/92Lcen1axW8 "Watch the video!")
 *This is a video of how to use the Read Me Generator*
 ##
 
